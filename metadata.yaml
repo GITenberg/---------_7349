@@ -1,0 +1,25 @@
+_repo: '---------_7349'
+_version: 0.0.1
+alternative_title: Sun Zi Bing Fa Dao Jia Xin Zhu Jie
+creator:
+  author:
+    agent_name: Tang, Jingwu
+    alias: 唐經武
+    gutenberg_agent_id: '2435'
+    url: http://www.gutenberg.org/2009/agents/2435
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7349'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sunzi, 6th century B. C. Sunzi bing fa'
+- !lcc 'U'
+- !lcsh 'Military art and science -- Early works to 1800'
+- GITenberg
+title: 孫子兵法道家新註解
+url: http://www.gutenberg.org/ebooks/7349
